@@ -1,0 +1,93 @@
+
+body {
+    font-family: 'Roboto';
+}
+#logo{
+    background-image: url('/img/logo-mercado-liebre.svg');
+    padding: 50px; 
+    margin-left: 25px;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    margin-top: 3%;
+}
+#buscador{
+    margin-left: 5%;
+}
+
+ 
+header {
+    background-color: var(--amarillo);
+    
+}
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+.listas{
+    margin-top: 20px;
+}
+.listas li a{
+    font-weight: bolder;
+}
+#menu {
+    display: 100%;
+    text-align: center;
+    padding: 25px; 
+}
+#menu button{
+    border-style: solid;
+    border-color: #0044aa;
+    border-radius: 5px;
+}
+#menu button:hover{
+    border-color: #1651a8;
+ 
+}
+#menu button:hover i{
+    background-color:#1651a8;
+}
+#menu i{
+    padding: 11px; 
+ background-color: #0044aa; 
+ border-radius: 1px;
+ color: aliceblue;
+}
+
+#cuotas {
+    display: inline;
+
+    
+}
+#b-cuotas{
+    margin: 15px;
+    text-align: center;
+  
+}
+#b-cuotas p{
+      font-weight: bolder;
+}
+
+.titulares {
+    font-size: 24px;
+}
+
+.precios {
+    font-size: 18px;
+}
+
+.descuentos {
+    font-size: 16px;
+}
+
+.descripcion {
+    font-size: 16px;
+}
+
+.cuerpos {
+    font-size: 12px;
+}

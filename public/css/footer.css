@@ -1,0 +1,36 @@
+footer{
+    text-align: center;
+    margin:5px ;
+    padding: 10px;
+    color: var(--grisOscuro);
+    background-color: white;
+}
+.cuerpos{
+    margin-top:25px;
+    width:100%;
+    height:75px; 
+    font-size: 14px;
+    font-weight: 900;
+
+}
+.icon{
+    color: var(--celeste);
+   font-size: 40px;
+    margin: 10px;
+}
+footer section h5{
+    font-size: 18px;
+    font-weight: bolder;
+}
+.copy{
+    font-size: 13px; 
+    text-align: left;
+    font-weight: bolder;
+    margin:10px; 
+    margin-bottom: 100px;
+   
+
+}
+section{
+    margin: 10%;
+}

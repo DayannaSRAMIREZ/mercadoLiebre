@@ -1,7 +1,12 @@
 *{
     margin: 0;
     padding: 0;
+    /* box-sizing: border-box; */
 }
 body{
     background-color: var(--grisClaro);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto';
 }

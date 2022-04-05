@@ -1,6 +1,6 @@
 footer{
     text-align: center;
-    margin:5px ;
+    margin:1.5vw ;
     padding: 10px;
     color: var(--grisOscuro);
     background-color: white;
@@ -31,6 +31,12 @@ footer section h5{
    
 
 }
-section{
+footer section{
     margin: 10%;
+}
+@media (min-width: 361px) {
+    /* .cuerpos{
+        font-size: 30px;
+    } */
+   
 }
